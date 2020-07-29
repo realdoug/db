@@ -1,0 +1,14 @@
+name: shards
+version: 0.1.0
+
+dependencies:
+  redis:
+    github: stefanwille/crystal-redis
+    version: ~> 2.6.0
+
+# development_dependencies:
+#   minitest:
+#     git: https://github.com/ysbaddaden/minitest.cr.git
+#     version: ~> 0.3.1
+
+license: MIT
